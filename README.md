@@ -22,3 +22,7 @@ python hola.py
 ```bash
 python -m pytest
 ```
+
+# Nuevos ejemplos
+
+- Estos ejemplos se agregarán en modo local.
