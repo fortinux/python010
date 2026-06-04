@@ -1,0 +1,16 @@
+[project]
+name = "python010"
+version = "0.1.0"
+description = "Ejemplos básicos de Python scripts"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "fortinux" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
